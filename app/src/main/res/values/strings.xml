@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudentManagement</string>
+    <string name="hello_message">List of Student</string>
+</resources>
